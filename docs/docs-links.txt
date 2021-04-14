@@ -1,0 +1,6 @@
+os : https://minio.cb.lk/amoeba/244a7af4-1978-4742-a372-fa7403b320c0.OSIntropdf
+https://minio.cb.lk/amoeba/12a08e25-44c1-4ae3-86f9-06a934b5429a.ProcessManagementpdf
+https://minio.cb.lk/amoeba/2baa631a-63aa-4fef-9f60-abe8af564599.ProcessSynchronizationpdf
+https://minio.cb.lk/amoeba/ec138121-63e2-4da8-9836-115f3d10c818.OSDeadlockspdf
+https://minio.cb.lk/amoeba/3926b817-9867-4303-ba5e-b5dac1eb022c.MemoryManagementpdf
+https://online.codingblocks.com/app/player/71654/content/162202/1146/document
